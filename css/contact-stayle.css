@@ -1,0 +1,12 @@
+
+.contact{
+    padding: 100px;
+}
+h1{
+    color: #0c65ed;
+}
+#submit{
+    padding: 13px !important;
+    width: 160px;
+    font-size: 20px !important;
+}
